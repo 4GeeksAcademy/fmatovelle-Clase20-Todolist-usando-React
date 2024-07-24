@@ -2,7 +2,9 @@ h1 {
     color: red;
 }
 
-
+.counter {
+    color: grey;
+}
 /* 
 
     You can write your own styles here...

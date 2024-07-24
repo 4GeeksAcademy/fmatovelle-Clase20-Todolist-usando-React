@@ -52,6 +52,7 @@ console.log(taskList);
 				}
 
 			</ul>
+			<div className="counter">{taskList.length} items left </div>
 		</div>
 	
 		);
